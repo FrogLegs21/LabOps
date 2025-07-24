@@ -127,7 +127,7 @@ All rights reserved.
 ## Developer
 
 * **Discord:** realcrow2 (`1228084539138506845`)
-* **GitHub:** https://github.com/FrogLegs21
+* **GitHub:** https://github.com/realcrow2
 
 ---
 
